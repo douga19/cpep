@@ -1,0 +1,4 @@
+/* Changing color to match EFREI's graphical chart*/
+:root > * {
+    --md-primary-fg-color: #377fbc;
+}

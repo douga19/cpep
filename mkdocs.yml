@@ -2,6 +2,8 @@ site_name: Competitive Programming - Efrei Paris
 
 repo_url: https://github.com/douga19/cpep
 
+edit_uri: ""
+
 extra_css:
   - assets/stylesheets/extra.css
 

@@ -1,0 +1,91 @@
+site_name: Competitive Programming - Efrei Paris
+
+repo_url: https://github.com/douga19/cpep
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - assets/javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+theme:
+  name: material
+  favicon: assets/img/favicon.png
+  logo: assets/img/logo.png
+  font:
+    text: Merriweather
+    code: JetBrains Mono
+  # adding icons for blockquote
+  icon:
+    repo: fontawesome/brands/git-alt
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+  # enable switching from light to dark mode
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  # enable navigation tabs
+  features:
+    # - navigation.tabs
+    - navigation.top
+    - header.autohide
+
+markdown_extensions:
+  # code highlighting
+  - pymdownx.highlight:
+      anchor_linenums: true
+  # use icon and emoji
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  # create beautiful blockquote (said for sponsor only lul)
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  # formatting
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  # card grids
+  - md_in_html
+  # add mathjax.js
+  - pymdownx.arithmatex:
+      generic: true
+
+plugins:
+  # enable site search
+  - search
+  # enable tags in posts
+  - tags
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/douga19/cpep
+      name: cpep on Github
+
+copyright:  Competitive Programming - Efrei Paris | Rado Rakotonarivo 2022

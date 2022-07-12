@@ -24,7 +24,7 @@ Voici les sujets de l'édition 2020 de la Coding Battle du Shaker : 6 problèmes
 
 ### Consignes
 * Prenez du temps pour traiter sérieusement tous les problèmes.
-* Notez le nombre de problème que vous avez réussi à résoudre en 2h.
+* Notez le nombre de problèmes que vous avez réussi à résoudre en 2h.
 * Notez le temps que vous avez mis à résoudre tous les problèmes.
 * Vous avez le droit de discuter entre vous mais chacun devra écrire son propre code.
 * Vous devez être en mesure d'expliquer votre solution.

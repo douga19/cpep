@@ -10,9 +10,9 @@ L'équipe de programmation compétitive s'adresse aux étudiants d'Efrei Paris a
 
 Cette équipe a pour but de vous accompagner dans votre progression en matière de programmation compétitive; mais également pour vous préparer au mieux pour les différents concours de programmation.
 
-À cours terme, nous vous préparerons pour les concours nationaux : [Prologin](https://prologin.org/) et la [Coding Battle du Shaker](https://le-shaker.com/).
+À court terme, nous vous préparerons pour les concours nationaux : [Prologin](https://prologin.org/) et la [Coding Battle du Shaker](https://le-shaker.com/).
 
-Cette page web nous servira pour partager les contenus et publier les challenges d'entrainements pour le projet. Au fur et à mesure de notre avancement, cette page est susceptible d'évoluer.
+Cette page web nous servira pour partager les contenus et publier les challenges d'entraînements pour le projet. Au fur et à mesure de notre avancement, cette page est susceptible d'évoluer.
 
 
 Pour toutes questions ou demandes, nous avons l'équipe [Teams](https://teams.microsoft.com/l/channel/19%3aiqhuxiHzRybvk4ggwZ5DcygdR170pfhXqXJheretwbU1%40thread.tacv2/General?groupId=4a56b809-9e53-40e6-bf51-2cd7c2dee825&tenantId=413600cf-bd4e-4c7c-8a61-69e73cddf731).
@@ -33,11 +33,11 @@ Nous allons essayer de nous organiser de la manière suivante :
 
 1. **Se créer un compte et s'inscrire sur** [leetcode](https://leetcode.com/):
 
-    Nous allons privilégier cet online-judge pour les entrainements quotidiens. L'idée est que chacun s'entraine régulièrement à résoudre des problèmes sur leetcode.
+    Nous allons privilégier cet online-judge pour les entraînements quotidiens. L'idée est que chacun s'entraîne régulièrement à résoudre des problèmes sur leetcode.
 
 2. **Des séances thématiques seront planifiées selon la disponibilité de chacun** (_présentiel_ ou _distanciel_) :
 
-    Ces séances seront sous forme de mini-cours sur une thématique précise. Ne voyez pas ces séances comme nécessaires pour progresser, c'est-à-dire, attendre des séances pour vous entrainer de votre côté : l'idée est de vous accompagner et non pas tout faire à votre place.
+    Ces séances seront sous forme de mini-cours sur une thématique précise. Ne voyez pas ces séances comme nécessaires pour progresser, c'est-à-dire, attendre des séances pour vous entraîner de votre côté : l'idée est de vous accompagner et non pas tout faire à votre place.
 
 3. **Un mini problem-set à résoudre chaque semaine (Weekly Challenge)** :
 
@@ -60,7 +60,7 @@ Normalement chacun doit avoir un minimum de bagage en algorithmique et en progra
 
 * [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) : un livre qui couvre à peu près toutes les bases de la programmation compétitive.
 * [Visualgo](https://visualgo.net/en) : une sorte de Ctutor pour visualiser des algorithmes sous forme d'animation.
-* [leetcode](https://leetcode.com/) : online judge pour les entrainements quotidiens, offre une section solution (mais pour votre bien, essayer d'abord par vous même avant de regarder les solutions).
+* [leetcode](https://leetcode.com/) : online judge pour les entraînements quotidiens, offre une section solution (mais pour votre bien, essayer d'abord par vous même avant de regarder les solutions).
 * [kattis](https://open.kattis.com/) : online judge que l'on va utiliser pour les compétitions internes.
 
 ---

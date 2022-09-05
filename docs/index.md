@@ -4,6 +4,27 @@ title: Accueil
 
 # Competitive Programming - Efrei Paris
 
+## Annonces
+
+!!! question "Coding Battle 2022"
+
+    [5-septembre-2022]
+
+    Bonjour à tous j'espère que tout le monde a passé un bel été et de bonnes vacances :slight_smile:. Nous allons reprendre les séances de préparations pour le Shaker qui arrivera très vite : les 12 et 13 octobre 2022.
+
+    [Lire la suite](annonces/2022-09-05-coding-battle-2022.md)
+
+!!! question "Coding Battle 2022"
+
+    [11-juillet-2022]
+
+    Bonjour à tous 🙂.
+
+    La prochaine échéance de l'équipe arrive à grand pas. Les 12 et 13 Octobre 2022 se dérouleront la sixième édition du Shaker et sa Coding Battle.
+
+    [Lire la suite](annonces/2022-07-11-coding-battle-2022.md)
+
+
 ## Présentation
 
 L'équipe de programmation compétitive s'adresse aux étudiants d'Efrei Paris ayant signifié leur intérêts pour la programmation compétitive.

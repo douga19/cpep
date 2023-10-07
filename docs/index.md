@@ -2,30 +2,7 @@
 title: Accueil
 ---
 
-# Competitive Programming - Efrei Paris
-
-## Annonces
-
-!!! question "Coding Battle 2022"
-
-    [5-septembre-2022]
-
-    Bonjour à tous j'espère que tout le monde a passé un bel été et de bonnes vacances :slight_smile:. Nous allons reprendre les séances de préparations pour le Shaker qui arrivera très vite : les 12 et 13 octobre 2022.
-
-    [Lire la suite](annonces/2022-09-05-coding-battle-2022.md)
-
-!!! question "Coding Battle 2022"
-
-    [11-juillet-2022]
-
-    Bonjour à tous 🙂.
-
-    La prochaine échéance de l'équipe arrive à grand pas. Les 12 et 13 Octobre 2022 se dérouleront la sixième édition du Shaker et sa Coding Battle.
-
-    [Lire la suite](annonces/2022-07-11-coding-battle-2022.md)
-
-
-## Présentation
+## Competitive Programming - Efrei Paris
 
 L'équipe de programmation compétitive s'adresse aux étudiants d'Efrei Paris ayant signifié leur intérêts pour la programmation compétitive.
 
@@ -35,14 +12,11 @@ Cette équipe a pour but de vous accompagner dans votre progression en matière 
 
 Cette page web nous servira pour partager les contenus et publier les challenges d'entraînements pour le projet. Au fur et à mesure de notre avancement, cette page est susceptible d'évoluer.
 
-
-Pour toutes questions ou demandes, nous avons l'équipe [Teams](https://teams.microsoft.com/l/channel/19%3aiqhuxiHzRybvk4ggwZ5DcygdR170pfhXqXJheretwbU1%40thread.tacv2/General?groupId=4a56b809-9e53-40e6-bf51-2cd7c2dee825&tenantId=413600cf-bd4e-4c7c-8a61-69e73cddf731).
-
 ---
 
 ## Structure de la page web
 
-Les annonces importantes sur le déroulement du projet ainsi que les consignes à suivre se feront dans la rubrique *Annonces*.
+Les annonces importantes sur les activités de l'équipe ainsi que les consignes à suivre se feront dans la rubrique *Annonces*.
 
 Dans la rubrique *Contenus*, vous retrouverez les contenus de tout type que le projet va produire : notes pour les mini-cours thématiques, les weekly challenges, les anciens sujets de concours.
 

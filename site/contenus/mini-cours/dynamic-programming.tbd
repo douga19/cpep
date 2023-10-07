@@ -1,3 +1,7 @@
+---
+
+---
+
 # Programmation dynamique (dynamic programming)
 
 La programmation dynamique (**_dynamic programming_** en anglais) est un principe de résolution de problème algorithmique qui consiste à améliorer une approche naïve (souvent récursive) en évitant de résoudre inutilement plusieurs fois un même sous-problème (évite l'appel récursif sur un même sous-problème).
